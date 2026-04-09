@@ -1,0 +1,12 @@
+```
+# Java/Maven build artifacts
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven-specific
+.mvn/
+mvn/
+```
